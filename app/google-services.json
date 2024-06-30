@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094315102157",
+    "project_id": "foods-materials",
+    "storage_bucket": "foods-materials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094315102157:android:949f828cf2ad3f4a777e84",
+        "android_client_info": {
+          "package_name": "com.alam.foods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1qWJV-6JBviQmmGkPYySkYVwIkXwEs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
